@@ -1,0 +1,124 @@
+{
+    "Bebidas": [
+        {
+            "id": 1,
+            "tipo": "whisky",
+            "alcoolica": true,
+            "tamanho": "1L",
+            "preço": 159.90,
+            "descricao": "Whisky Buchanas DELUXE 12 anos",
+            "imagem": "",
+            "estoque": 20,
+            "importada": true
+        },
+        {
+            "id": 2,
+            "tipo": "whisky",
+            "alcoolica": true,
+            "tamanho": "1L",
+            "preço": 130.00,
+            "descricao": "Whisky Bourbon Jim Beam Black Extra Aged",
+            "imagem": "",
+            "estoque": 20,
+            "importada": true
+        },
+        {
+            "id": 3,
+            "tipo": "whisky",
+            "alcoolica": true,
+            "tamanho": "1.75L",
+            "preço": 139.90,
+            "descricao": "Whisky Johnnie Walker Red Label",
+            "imagem": "",
+            "estoque": 20,
+            "importada": true
+        },
+        {
+            "id": 4,
+            "tipo": "vinho",
+            "alcoolica": true,
+            "tamanho": "750ml",
+            "preço": 355.30,
+            "descricao": "Vinho Tinto Argentino Terrazas Afincado Malbec",
+            "imagem": "",
+            "estoque": 20,
+            "importada": true
+        },
+        {
+            "id": 5,
+            "tipo": "vinho",
+            "alcoolica": true,
+            "tamanho": "750ml",
+            "preço": 13.455,
+            "descricao": "Vinho Tinto Chateau Latour Pauillac",
+            "imagem": "",
+            "estoque": 2,
+            "importada": true
+        },
+        {
+            "id": 6,
+            "tipo": "gin",
+            "alcoolica": true,
+            "tamanho": "750ml",
+            "preço": 1.250,
+            "descricao": "Gin Tanqueray London Dry 6 Unidades",
+            "imagem": "",
+            "estoque": 10,
+            "importada": true
+        },
+        {
+            "id": 7,
+            "tipo": "gin",
+            "alcoolica": true,
+            "tamanho": "750ml",
+            "preço": 805.00,
+            "descricao": "Gin Gordons 6 Unidades",
+            "imagem": "",
+            "estoque": 10,
+            "importada": true
+        },
+        {
+            "id": 8,
+            "tipo": "vodka",
+            "alcoolica": true,
+            "tamanho": "700ml",
+            "preço": 1.300,
+            "descricao": "Vodka Praeda Comércio Importação e Exportação Ltda Diva",
+            "imagem": "",
+            "estoque": 10,
+            "importada": true
+        },
+        {
+            "id": 9,
+            "tipo": "vodka",
+            "alcoolica": true,
+            "tamanho": "4.5l",
+            "preço": 1.189,
+            "descricao": "Absolut Elyx Vodka Sueca",
+            "imagem": "",
+            "estoque": 6,
+            "importada": true
+        },
+        {
+            "id": 10,
+            "tipo": "cerveja",
+            "alcoolica": true,
+            "tamanho": "335ml",
+            "preço": "500.00",
+            "descricao": "Cerveja Blue moon - Belgian White Com 12 Unidades",
+            "imagem": "",
+            "estoque": 1000,
+            "importada": true
+        },
+        {
+            "id": 10,
+            "tipo": "cerveja",
+            "alcoolica": true,
+            "tamanho": "269ml",
+            "preço": "2.00",
+            "descricao": "cerveja Brahma Pilsen",
+            "imagem": "",
+            "estoque": 2000,
+            "importada": true
+    ]
+}
