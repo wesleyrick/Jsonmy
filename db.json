@@ -126,7 +126,7 @@
             "tipo": "cerveja",
             "alcoolica": true,
             "tamanho": "350ml",
-            "preço": "2.00",
+            "preço": "5.00",
             "descricao": "Cerveja Heineken Spal Indústria Brasileira",
             "imagem": "",
             "estoque": 2000,
@@ -137,7 +137,7 @@
             "tipo": "cerveja",
             "alcoolica": true,
             "tamanho": "350ml",
-            "preço": "2.00",
+            "preço": "2.89",
             "descricao": "Cerveja Skol Lata Ambev",
             "imagem": "",
             "estoque": 2000,
@@ -148,33 +148,182 @@
             "tipo": "cerveja",
             "alcoolica": true,
             "tamanho": "500ml",
-            "preço": "2.00",
+            "preço": "15.99",
             "descricao": "Cerveja Alemã Weihenstephaner Hefe Weissbier Trigo ",
             "imagem": "",
             "estoque": 2000,
-            "importada": true      
+            "importada": true
         },
         {
             "id": 15,
-            "tipo": "cerveja",
+            "tipo": "cachacas e aguardentes",
             "alcoolica": true,
-            "tamanho": "330ml",
-            "preço": "2.00",
-            "descricao": "Cerveja Heineken - Pack Com 6 Long Necks",
+            "tamanho": "750ml",
+            "preço": "5.605",
+            "descricao": "Cachaça Weber Haus  Xii Anos Lote",
             "imagem": "",
-            "estoque": 2000,
-            "importada": true         
+            "estoque": 500,
+            "importada": true
         },
         {
             "id": 16,
             "tipo": "cerveja",
             "alcoolica": true,
-            "tamanho": "330ml",
-            "preço": "2.00",
-            "descricao": "Cervaj",
+            "tamanho": "269ml",
+            "preço": "3.70",
+            "descricao": "Cerveja Amstel",
             "imagem": "",
             "estoque": 2000,
-            "importada": true         
+            "importada": true
+        },
+        {
+            "id": 17,
+            "tipo": "cerveja",
+            "alcoolica": true,
+            "tamanho": "350ml",
+            "preço": "35.88",
+            "descricao": "Cerveja Brahma Duplo Malte 350 Ml Kit 12 Unidades",
+            "imagem": "",
+            "estoque": 2000,
+            "importada": false
+        },
+        {
+            "id": 18,
+            "tipo": "cachacas e aguardentes",
+            "alcoolica": true,
+            "tamanho": "910Ml",
+            "preço": "11.98",
+            "descricao": "CACHAÇA Velho Barreiro",
+            "imagem": "",
+            "estoque": 500,
+            "importada": false
+        },
+        {
+            "id": 19,
+            "tipo": "cachacas e aguardentes",
+            "alcoolica": true,
+            "tamanho": "700Ml",
+            "preço": "135.00",
+            "descricao": "Cachaça Ypióca Extra Premium Comemorativa 160 Anos",
+            "imagem": "",
+            "estoque": 100,
+            "importada": false
+        },
+        {
+            "id": 20,
+            "tipo": "cachacas e aguardentes",
+            "alcoolica": true,
+            "tamanho": "670ml",
+            "preço": "135.00",
+            "descricao": "Cachaça Chão De Minas Ouro ",
+            "imagem": "",
+            "estoque": 100,
+            "importada": false
+        },
+        {
+            "id": 21,
+            "tipo": "cachacas e aguardentes",
+            "alcoolica": true,
+            "tamanho": "50ml",
+            "preço": "25.89",
+            "descricao": "Cachaça Coração De Alambique",
+            "imagem": "",
+            "estoque": 100,
+            "importada": false
+        },
+        {
+            "id": 22,
+            "tipo": "cachacas e aguardentes",
+            "alcoolica": true,
+            "tamanho": " 670ml",
+            "preço": "72.83",
+            "descricao": "Cachaça WIBA! Branca ",
+            "imagem": "",
+            "estoque": 100,
+            "importada": false
+        },
+        {
+            "id": 23,
+            "tipo": "cachacas e aguardentes",
+            "alcoolica": true,
+            "tamanho": " 670ml",
+            "preço": "57,55",
+            "descricao": "Cachaça Alvorada Beleza de Minas ",
+            "imagem": "",
+            "estoque": 100,
+            "importada": false
+        }
+    ],
+    "petiscos": [
+        {
+            "id": 24,
+            "tipo": "alimentos",
+            "descricao": "Biscoito Torcida",
+            "tamanho": "70gr",
+            "sabor": "queijo",
+            "preco": "5.00",
+            "imagem": "",
+            "estoque": 200
+        },
+        {
+            "id": 25,
+            "tipo": "alimentos",
+            "descricao": "Amendoim sem pele torrado sem sal SANTA HELENA",
+            "tamanho": "500gr",
+            "sabor": "queijo",
+            "preco": "13.64",
+            "imagem": "",
+            "estoque": 200
+        },
+        {
+            "id": 26,
+            "tipo": "alimentos",
+            "descricao": "Churrasquinho no palito",
+            "tamanho": "100gr",
+            "sabor": "misto",
+            "preco": "10.00",
+            "imagem": "",
+            "estoque": 100
+        },
+        {
+            "id": 27,
+            "tipo": "alimentos",
+            "descricao": "Batata frita",
+            "tamanho": "500gr",
+            "sabor": "",
+            "preco": "30.00",
+            "imagem": "",
+            "estoque": 100
+        },
+        {
+            "id": 28,
+            "tipo": "alimentos",
+            "descricao": "Torresmo",
+            "tamanho": "400gr",
+            "sabor": "",
+            "preco": "15.00",
+            "imagem": "",
+            "estoque": 100
+        },
+        {
+            "id": 29,
+            "tipo": "alimentos",
+            "descricao": "Queijo cortado em cubos + Azeitonas, presunto em cubos",
+            "tamanho": "450gr",
+            "sabor": "misto",
+            "preco": "20.00",
+            "imagem": "",
+            "estoque": 100
+        },
+        {
+            "id": 30,
+            "tipo": "alimentos",
+            "descricao": "Hambùrrguer completo",
+            "tamanho": "300gr",
+            "sabor": "carne",
+            "preco": "15.00",
+            "imagem": "",
+            "estoque": 100
         }
     ]
 }
