@@ -325,5 +325,33 @@
             "imagem": "",
             "estoque": 100
         }
+    ],
+    "cigarros": [
+        {
+            "id": 31,
+            "tipo": "cigarros e fumos",
+            "descricao": " Cigarro DERBY",
+            "versao": "BLUE KS",
+            "preco": "9.00",
+            "estoque": "500"
+
+        },
+        {
+            "id": 31,
+            "tipo": "cigarros e fumos",
+            "descricao": " Cigarro DERBY MENTHOL CLICK +",
+            "versao": "BLUE KS",
+            "preco": "9.00",
+            "estoque": "500"   
+        },
+        {
+         
+            "id": 31,
+            "tipo": "cigarros e fumos",
+            "descricao": " Cigarro DERBY MENTHOL CLICK +",
+            "versao": "BLUE KS",
+            "preco": "9.00",
+            "estoque": "500"      
+        }
     ]
 }
