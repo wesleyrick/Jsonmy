@@ -337,19 +337,27 @@
 
         },
         {
-            "id": 31,
+            "id": 32,
             "tipo": "cigarros e fumos",
             "descricao": " Cigarro DERBY MENTHOL CLICK +",
-            "versao": "BLUE KS",
+            "versao": "BLUE",
             "preco": "9.00",
             "estoque": "500"   
         },
         {
          
-            "id": 31,
+            "id": 33,
             "tipo": "cigarros e fumos",
-            "descricao": " Cigarro DERBY MENTHOL CLICK +",
-            "versao": "BLUE KS",
+            "descricao": "NOVO FILTRO AZUL",
+            "versao": "NOVO FILTRO AZUL",
+            "preco": "9.00",
+            "estoque": "500"      
+        },
+        {
+            "id": 34,
+            "tipo": "cigarros e fumos",
+            "descricao": "DUNHILL",
+            "versao": "PREMIUM MENTHOL KS NR SC",
             "preco": "9.00",
             "estoque": "500"      
         }
